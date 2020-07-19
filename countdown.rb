@@ -1,5 +1,3 @@
-#write your code here
-number = 10
 def countdown
   SECONDS = 10
   while SECONDS < 10
