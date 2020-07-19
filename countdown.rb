@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown
-  
+  SECOND(S) 
   
 end
 
